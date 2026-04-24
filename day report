@@ -1,48 +1,48 @@
-Revised *FGD Day Report - 23 April 2026*
+*FGD Day Report - 24 April 2026*
 
 7-Day Silo 1 = 10.03 m
-7-Day Silo 2 = 9.15 m
-7-Day Silo 3 = 7.60 m
+7-Day Silo 2 = 8.26 m
+7-Day Silo 3 = 7.58 m
 
-1-Day Silo 1 = 7.48/5.81 m
-1-Day Silo 2 = 11.36/ 9.50 m
+1-Day Silo 1 = 8.13/6.50 m
+1-Day Silo 2 = 11.36/9.52 m
 
-LSST 1 = 6.04 m
-LSST 2 = 9.18 m
+LSST 1 = 7.21 m
+LSST 2 = 7.76 m
 
-Absorber 1 = 8.47 m
+Absorber 1 = 8.52 m
 Absorber 2 = 0.0 m
 
-AAT - 10.55 m
+AAT - 10.82 m
 
-PHCT - 3.44 m
-RWT - 6.18 m
-SHCT - 0.68 m
-WWT - 5.88 m
+PHCT - 3.32 m
+RWT - 6.15 m
+SHCT - 1.03 m
+WWT - 4.09 m
 
 Running hours:
 
-Ball Mill-A: 0 hrs 0 mins
+Ball Mill-A: 1 hrs 38 mins
 Ball Mill-B: 0 hrs 0 mins
 
-VBF-A : 1 hrs 2 mins
-VBF-B : 0 hrs 0 mins
+VBF-A : 0 hrs 0 mins
+VBF-B : 2 hrs 11 mins
 
 Totaliser Reading:(Local/DCS)
 
-LBC-1A : 0/0 MT
+LBC-1A : 0/NaN MT
 LBC-1B : 7228.5/7125.45 MT
-LBC-4A : 5818.5/5894.76 MT
+LBC-4A : 5928.8/6004.72 MT
 LBC-4B : 1086.1/ 1116.68 MT
-Mill Feeder-A : 7729.04/7449.34 MT
+Mill Feeder-A : 7755.648/7475.84 MT
 Mill Feeder-B : 337.017/325.50 MT
 
 No. of Limestone Truck : 0
 Limestone received(T) : 0 MT
-Limestone consumption (Day) : 0 MT
+Limestone consumption (Day) : 26.5 MT
 
-Gypsum Production(Day) :  41.33 MT
-No. of Gypsum Truck dispatched : 0
-Gypsum dispatched (day) :  0 MT
+Gypsum Production(Day) :  87.33 MT
+No. of Gypsum Truck dispatched : 1
+Gypsum dispatched (day) :  32.870 MT
 
-Process water Intake : 752.8 m³
+Process water Intake : 943.97 m³
