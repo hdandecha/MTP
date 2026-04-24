@@ -1,68 +1,68 @@
 *FGD Evening Shift Report - 23 April 2026* 
 
-U#1 Load = 803.31 MW
-U#1 Air flow = 2861 TPH
+U#1 Load = 817 MW
+U#1 Air flow = 2876 TPH
 
 U#2 Load = NaN MW
 U#2 Air Flow = NaN TPH
 
-U#1 Density = 1120.61 kg/m³
-U#1 TSS = 18.23 %
-U#1 PH = 6.24
-(GBP 1A in service - DIS. PR. = 1.45 kg/cm²(RC mode))
+U#1 Density = 1116.61 kg/m³
+U#1 TSS = 17.64 %
+U#1 PH = 6.00
+(GBP 1A in service - DIS. PR. = 1.67 kg/cm²(RC mode))
 
-U#1 Absorber Tank Level = 8.49 m
+U#1 Absorber Tank Level = 8.52 m
 
 *U#2 FGD - under permit for mandatory inspection*
 
-PHCT = 3.44 m
-AAT = 10.55 m
+PHCT = 3.32 m
+AAT = 10.82 m
 
-LSST 1 = 6.04 m
-LSST 2 = 9.18 m
+LSST 1 = 7.21 m
+LSST 2 = 7.76 m
 
 7-Day Silo 1 = 10.03 m
-7-Day Silo 2 = 9.15 m
-7-Day Silo 3 = 7.60 m
+7-Day Silo 2 = 8.26 m
+7-Day Silo 3 = 7.58 m
 
-1-Day Silo 1 = 7.48/5.81 m
-1-Day Silo 2 = 11.36/9.50 m
+1-Day Silo 1 = 8.13/6.50 m
+1-Day Silo 2 = 11.35/9.52 m
 
 SRC - 1A - Not in service
-SRC - 1B - 2.34 kg/cm², 197.93 A
-SRC - 1C - 1.95 kg/cm², 181.2 A
+SRC - 1B - 2.34 kg/cm², 197.03 A
+SRC - 1C - 1.95 kg/cm², 180.85 A
 SRC - 1D - Not in service
 
-OAB 1A = 78.92 A at 9458.32 Nm³/hr
+OAB 1A = 78.87 A at 9518 Nm³/hr
 
-U#1 ID fan 1A - BP = 67.94 %
-U#1 ID fan 1B - BP = 67.90 %
+U#1 ID fan 1A - BP = 68.16 %
+U#1 ID fan 1B - BP = 68.48 %
 
-B/F 1A = 78.62 A, BP = 25.25 %
+B/F 1A = 79.32 A, BP = 16.38 %
 B/F 1B = Not in service
 
-U#2 ID fan 2A - BP = 68.95 %
-U#2 ID fan 2B - BP = 68.87 %
+U#2 ID fan 2A - BP = 67.60 %
+U#2 ID fan 2B - BP = 67.54 %
 
 B/F 2A = Not in service
 B/F 2B = Not in service
 
-Absorber 1 inlet temp. = 122.82 °C
-Absorber 1 outlet temp. = 48.91 °C
+Absorber 1 inlet temp. = 120.10 °C
+Absorber 1 outlet temp. = 49.28 °C
 
-Absorber 1 inlet press. = 13.56 mmWC
+Absorber 1 inlet press. = 10.56 mmWC
 Absorber 1 outlet press. = NaN
 
-Absorber 1 DP = 6.11 mmWC
+Absorber 1 DP = NaN mmWC
 
-Unit 1 Absorber Tank Inlet SO2 = 995.11  mg/Nm³
-Unit 1 Absorber Inlet SO2 Dry @ 6% O2 = 1643.20 mg/Nm³
-Unit 1 Absorber Tank Inlet O2 = 11.44 %
+Unit 1 Absorber Tank Inlet SO2 = 1482.11  mg/Nm³
+Unit 1 Absorber Inlet SO2 Dry @ 6% O2 = 1921.20 mg/Nm³
+Unit 1 Absorber Tank Inlet O2 = 9.44 %
 
-Unit 1 Absorber Tank Outlet SO2 = NaN mg/Nm³
-Unit 1 Absorber Outlet SO2 Dry @ 6% O2 = NaN mg/Nm³
-Unit 1 Absorber Tank Outlet O2 = 5.49 %
+Unit 1 Absorber Tank Outlet SO2 = 0.32 mg/Nm³ (Purging required)
+Unit 1 Absorber Outlet SO2 Dry @ 6% O2 = 0.23 mg/Nm³
+Unit 1 Absorber Tank Outlet O2 = 5.38 %
 
-U#1 FGD SO2 Removal Efficiency = NaN %
+U#1 FGD SO2 Removal Efficiency = 99.98 %
 
 *U#2 FGD - under permit for mandatory inspection*
