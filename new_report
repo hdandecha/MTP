@@ -1,0 +1,78 @@
+*FGD Morning Shift Report - 27 April 2026* 
+
+*Main Plant Parameters and Booster Fans*
+
+U#1 Load = 817 MW
+U#1 Air flow = 2876 TPH
+
+U#1 ID fan 1A - BP = 46.89 %
+U#1 ID fan 1B - BP = 46.85 %
+
+B/F 1A = 77.32 A, BP = 15.30 %
+B/F 1B = Not in service
+
+U#2 Load = NaN MW
+U#2 Air Flow = NaN TPH
+
+U#2 ID fan 2A - BP = 39.20 %
+U#2 ID fan 2B - BP = 39.16 %
+
+B/F 2A = Not in service
+B/F 2B = Not in service
+
+*Absorber Tank Slurry Parameters*
+
+U#1 Density = 1120.42 kg/m³
+U#1 TSS = 18.14 %
+U#1 PH = 5.35
+(GBP 1A in service - DIS. PR. = 1.77 kg/cm²(RC mode))
+
+U#1 Absorber Tank Level = 8.53 m
+
+*U#2 FGD - under permit for mandatory inspection*
+
+*Other Slurry Tanks and Silos*
+
+PHCT = 8.13 m
+AAT = 11.37 m
+
+LSST 1 = 4.89 m
+LSST 2 = 7.83 m
+
+7-Day Silo 1 = 10.03 m
+7-Day Silo 2 = 7.98 m
+7-Day Silo 3 = 7.60 m
+
+1-Day Silo 1 = 8.13/6.50 m
+1-Day Silo 2 = 11.35/9.52 m
+
+*HT Drives*
+
+SRC - 1A - Not in service
+SRC - 1B - 2.37 kg/cm², 197.03 A
+SRC - 1C - 2.00 kg/cm², 182.55 A
+SRC - 1D - Not in service
+
+OAB 1A = 79.07 A at 9440 Nm³/hr
+
+*Absorber Tank Flue Gas Inlet Outlet Parameters*
+
+Absorber 1 inlet temp. = 116.10 °C
+Absorber 1 outlet temp. = 49.53 °C
+
+Absorber 1 inlet press. = 6.87 mmWC
+Absorber 1 outlet press. = NaN
+
+Absorber 1 DP = 17.61 mmWC
+
+Unit 1 Absorber Tank Inlet SO2 = 1678.11  mg/Nm³
+Unit 1 Absorber Inlet SO2 Dry @ 6% O2 = 2284.20 mg/Nm³
+Unit 1 Absorber Tank Inlet O2 = 10.09 %
+
+Unit 1 Absorber Tank Outlet SO2 = 0.18 mg/Nm³ (Purging required)
+Unit 1 Absorber Outlet SO2 Dry @ 6% O2 = 0.15 mg/Nm³
+Unit 1 Absorber Tank Outlet O2 = 4.91 %
+
+U#1 FGD SO2 Removal Efficiency = 99.98 %
+
+*U#2 FGD - under permit for mandatory inspection*
